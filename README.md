@@ -42,8 +42,8 @@ Example Histogram of Father's vs. Mother's Education:
 - Create a Prediction Interval
 <img width="600" alt="Actual vs. Predicted Values" src="https://github.com/user-attachments/assets/d2ba61d6-ac2a-4592-bd1e-6d1952e43536">
 
-<img width="211" alt="Metrics for Evaluation - MSE, RMSE" src="https://github.com/user-attachments/assets/aeb428a5-1268-406b-a747-f98dacd4947a">
 
+<img width="211" alt="Metrics for Evaluation - MSE, RMSE" src="https://github.com/user-attachments/assets/aeb428a5-1268-406b-a747-f98dacd4947a">
 
 <b> 8. Case Studies using Shapley Values </b>
 - Underweight Baby
