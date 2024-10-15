@@ -1,5 +1,5 @@
 # Birth-Weight-Prediction
-A Jupyter Notebook to predict a baby's birth weight.
+A Jupyter Notebook to predict a baby's birth weight. Inspired by this [Kaggle Challenge](https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight).
 
 ### Purpose: 
 - <b> Babies who are underweight can have complications (low birth weight): </b> Underweight is less than 5 lbs, 8 ounces.  It is usually caused by being born too early (premature). Complications for being underweight include short term / long term complications like low oxygen levels at birth, breathing problems, nervous system problems, digestive problems, developmental delays. 
@@ -41,8 +41,7 @@ Example Histogram of Father's vs. Mother's Education:
 <b> 7. Model Evaluation </b>
 - Create a Prediction Interval
 <img width="600" alt="Actual vs. Predicted Values" src="https://github.com/user-attachments/assets/d2ba61d6-ac2a-4592-bd1e-6d1952e43536">
-
-
+- Evaluate Model with Metrics
 <img width="211" alt="Metrics for Evaluation - MSE, RMSE" src="https://github.com/user-attachments/assets/aeb428a5-1268-406b-a747-f98dacd4947a">
 
 <b> 8. Case Studies using Shapley Values </b>
