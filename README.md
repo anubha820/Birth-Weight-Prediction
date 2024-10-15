@@ -1,6 +1,7 @@
 # Birth-Weight-Prediction
 A Jupyter Notebook to predict a baby's birth weight. Inspired by this [Kaggle Challenge](https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight).
-Presented at the Grace Hopper Celebration (GHC) '24. [Click here] view the presentation.
+
+Presented at the Grace Hopper Celebration (GHC) '24. [Click here](https://github.com/anubha820/Birth-Weight-Prediction/blob/main/GHC%20Presentation.pdf) view the presentation.
 
 ### Purpose: 
 - <b> Babies who are underweight can have complications (low birth weight): </b> Underweight is less than 5 lbs, 8 ounces.  It is usually caused by being born too early (premature). Complications for being underweight include short term / long term complications like low oxygen levels at birth, breathing problems, nervous system problems, digestive problems, developmental delays. 
